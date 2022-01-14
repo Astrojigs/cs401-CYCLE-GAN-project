@@ -4,4 +4,4 @@ A Cyclic generative adversarial network which transforms the images of horses in
 
 # Results:
 
-[eg1](Results/Result_example1.png)
+![eg1](Results/Result_example1.png)
