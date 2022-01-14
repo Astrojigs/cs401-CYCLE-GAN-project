@@ -2,7 +2,10 @@
 A Cyclic generative adversarial network which transforms the images of horses into zebras.
 
 # Introduction:
-This project is an example of how powerful the Generative networks are when they come in terms with discriminative networks.
+This project is an example of how powerful the Generative networks are when they come in terms with the discriminative networks.
+
+[How does it work?](https://www.tensorflow.org/tutorials/generative/cyclegan)
+
 
 # Results:
 ### Examples
