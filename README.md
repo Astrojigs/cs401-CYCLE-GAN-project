@@ -6,6 +6,14 @@ This project is an example of how powerful the Generative networks are when they
 
 [How does it work?](https://www.tensorflow.org/tutorials/generative/cyclegan)
 
+## Models:
+[Model used:](https://github.com/Astrojigs/cs401-CYCLE-GAN-project/blob/main/models.py)
+
+### Generator model:
+![Generative network](generator_model.png)
+
+### Discriminator model:
+![discriminator model](discriminator_model.png)
 
 # Results:
 ### Examples
