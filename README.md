@@ -9,6 +9,9 @@ This project is an example of how powerful the Generative networks are when they
 ## Models:
 [Model used:](https://github.com/Astrojigs/cs401-CYCLE-GAN-project/blob/main/models.py)
 
+## Losses:
+[Losses used:](https://github.com/Astrojigs/cs401-CYCLE-GAN-project/blob/main/losses.py)
+
 ### Generator model:
 ![Generative network](generator_model.png)
 
